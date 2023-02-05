@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save toaaaaa.
+          Edit <code>src/App.js</code> Ahora sí sé subir esta porqueríaaa.
         </p>
         <a
           className="App-link"
